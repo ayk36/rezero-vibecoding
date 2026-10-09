@@ -1,0 +1,16 @@
+{
+  "id": "rezero:shadow_bind",
+  "element": "yin",
+  "mana_cost": 20,
+  "stamina_cost": 0,
+  "cooldown": 40,
+  "range": 20,
+  "requirements": {
+    "magic_level": 1
+  },
+  "effect": {
+    "type": "slow",
+    "duration": 60,
+    "amplifier": 2
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "id": "rezero:ram",
+  "name": "Ram",
+  "faction": "rezero:roswaal_mansion",
+  "combat": true
+}

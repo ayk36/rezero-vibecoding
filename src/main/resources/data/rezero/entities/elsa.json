@@ -1,0 +1,7 @@
+{
+  "id": "rezero:elsa",
+  "name": "Elsa Granhiert",
+  "faction": "rezero:assassin",
+  "combat": true,
+  "boss": "rezero:elsa"
+}

@@ -1,0 +1,5 @@
+{
+  "id": "rezero:white_whale_hunt",
+  "boss": "rezero:white_whale",
+  "required_story_flag": "mansion_arc_complete"
+}

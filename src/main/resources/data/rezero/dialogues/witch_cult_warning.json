@@ -1,0 +1,31 @@
+{
+  "speaker": "Otto",
+  "start": "start",
+  "nodes": {
+    "start": {
+      "text": "The Witch Cult is moving through the forest. We need to act now.",
+      "choices": [
+        {
+          "text": "Face Petelgeuse.",
+          "action": {
+            "type": "start_quest",
+            "value": "rezero:witch_cult_assault"
+          },
+          "next": "summon"
+        }
+      ]
+    },
+    "summon": {
+      "text": "Stay alert.",
+      "choices": [
+        {
+          "text": "Begin the battle.",
+          "action": {
+            "type": "start_boss",
+            "value": "rezero:petelgeuse"
+          }
+        }
+      ]
+    }
+  }
+}

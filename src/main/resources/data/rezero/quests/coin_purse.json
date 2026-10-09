@@ -1,0 +1,8 @@
+{
+  "title": "Coin Purse",
+  "description": "Collect Lugunica Copper Coins to prepare for the city.",
+  "objectives": [
+    { "type": "collect", "target": "rezero:lugunica_copper_coin", "count": 8 }
+  ],
+  "experience_reward": 120
+}

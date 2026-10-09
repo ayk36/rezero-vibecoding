@@ -1,0 +1,11 @@
+{
+  "title": "The Stolen Insignia",
+  "description": "Speak with Emilia after learning about the missing insignia.",
+  "prerequisites": ["rezero:arrival"],
+  "objectives": [
+    { "type": "talk", "target": "rezero:emilia", "count": 1 }
+  ],
+  "experience_reward": 250,
+  "faction_reward": "rezero:emilia_camp",
+  "faction_reputation_reward": 5
+}

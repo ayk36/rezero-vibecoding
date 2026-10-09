@@ -1,0 +1,6 @@
+{
+  "name": "Invisible Hand",
+  "behavior": "invisible_hand",
+  "cooldown": 60,
+  "mana_cost": 25
+}

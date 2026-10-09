@@ -1,0 +1,13 @@
+{
+  "id": "rezero:arrival",
+  "title": "Arrival",
+  "description": "Find someone in the unfamiliar city.",
+  "objectives": [
+    {
+      "type": "talk",
+      "target": "rezero:emilia",
+      "count": 1
+    }
+  ],
+  "experience_reward": 100
+}

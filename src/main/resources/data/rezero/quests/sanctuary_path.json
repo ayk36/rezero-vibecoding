@@ -1,0 +1,8 @@
+{
+  "title": "Road to Sanctuary",
+  "description": "Find the Sanctuary landmark and prepare for the trials.",
+  "objectives": [
+    { "type": "reach_location", "target": "rezero:sanctuary", "count": 1 }
+  ],
+  "experience_reward": 1000
+}

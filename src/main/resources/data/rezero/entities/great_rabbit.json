@@ -1,0 +1,7 @@
+{
+  "id": "rezero:great_rabbit",
+  "name": "Great Rabbit",
+  "faction": "rezero:mabeasts",
+  "combat": true,
+  "population_cap": 32
+}

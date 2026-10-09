@@ -1,0 +1,7 @@
+{
+  "id": "rezero:beatrice",
+  "name": "Beatrice",
+  "faction": "rezero:roswaal_mansion",
+  "combat": true,
+  "dialogue": "rezero:beatrice_intro"
+}

@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# Fabric run directories
+run/
+runs/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Local configuration and logs
+config/
+logs/
+*.log
+
+# OS
+.DS_Store

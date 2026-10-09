@@ -1,0 +1,11 @@
+{
+  "title": "Roswaal Mansion",
+  "description": "Survive the first night near the mansion and defeat Wolgarms.",
+  "prerequisites": ["rezero:loot_house"],
+  "objectives": [
+    { "type": "kill", "target": "rezero:wolgarm", "count": 5 }
+  ],
+  "experience_reward": 800,
+  "faction_reward": "rezero:roswaal_mansion",
+  "faction_reputation_reward": 15
+}

@@ -1,0 +1,18 @@
+{
+  "speaker": "Unknown Voice",
+  "start": "start",
+  "nodes": {
+    "start": {
+      "text": "Your memories will remain even when the world returns.",
+      "choices": [
+        {
+          "text": "I will remember.",
+          "action": {
+            "type": "retain_memory",
+            "value": "first_return"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "title": "A Dangerous Night",
+  "description": "Survive until a new day begins.",
+  "objectives": [
+    { "type": "survive", "target": "rezero:survive", "count": 1 }
+  ],
+  "experience_reward": 200
+}

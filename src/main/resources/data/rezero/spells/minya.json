@@ -1,0 +1,11 @@
+{
+  "id": "rezero:minya",
+  "element": "yin",
+  "mana_cost": 25,
+  "cooldown": 40,
+  "damage": 10,
+  "range": 20,
+  "requirements": {
+    "magic_level": 1
+  }
+}

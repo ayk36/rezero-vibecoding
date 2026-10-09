@@ -1,0 +1,25 @@
+{
+  "id": "rezero:elsa",
+  "name": "Elsa Granhiert",
+  "entity_type": "minecraft:vindicator",
+  "max_health": 180.0,
+  "experience_reward": 1000,
+  "gold_reward": 4,
+  "phases": [
+    {
+      "id": "normal",
+      "health_threshold": 1.0,
+      "abilities": ["dash", "melee"]
+    },
+    {
+      "id": "enraged",
+      "health_threshold": 0.6,
+      "abilities": ["dash", "melee", "bleed"]
+    },
+    {
+      "id": "berserk",
+      "health_threshold": 0.25,
+      "abilities": ["dash", "melee", "bleed", "teleport"]
+    }
+  ]
+}

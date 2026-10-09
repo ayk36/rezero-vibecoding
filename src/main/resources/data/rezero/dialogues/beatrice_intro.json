@@ -1,0 +1,31 @@
+{
+  "speaker": "Beatrice",
+  "start": "start",
+  "nodes": {
+    "start": {
+      "text": "Do not waste my time, I suppose.",
+      "choices": [
+        {
+          "text": "Teach me Yin magic.",
+          "action": {
+            "type": "start_quest",
+            "value": "rezero:learn_yin"
+          },
+          "next": "reward"
+        }
+      ]
+    },
+    "reward": {
+      "text": "You have learned enough to use Shadow Bind, I suppose.",
+      "choices": [
+        {
+          "text": "Accept the lesson.",
+          "action": {
+            "type": "learn_spell",
+            "value": "rezero:minya"
+          }
+        }
+      ]
+    }
+  }
+}

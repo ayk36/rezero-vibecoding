@@ -1,0 +1,8 @@
+{
+  "id": "rezero:roswaal",
+  "name": "Roswaal",
+  "faction": "rezero:roswaal_mansion",
+  "combat": false,
+  "schedule": "night",
+  "dialogue": "rezero:roswaal_intro"
+}

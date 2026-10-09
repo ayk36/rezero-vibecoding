@@ -1,0 +1,13 @@
+{
+  "id": "rezero:white_whale",
+  "name": "White Whale",
+  "entity_type": "minecraft:phantom",
+  "max_health": 1200.0,
+  "experience_reward": 5000,
+  "gold_reward": 24,
+  "phases": [
+    { "id": "fog", "health_threshold": 0.75 },
+    { "id": "summon", "health_threshold": 0.40 },
+    { "id": "enraged", "health_threshold": 0.0 }
+  ]
+}

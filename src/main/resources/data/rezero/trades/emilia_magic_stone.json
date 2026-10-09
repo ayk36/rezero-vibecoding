@@ -1,0 +1,7 @@
+{
+  "npc": "rezero:emilia",
+  "item": "rezero:magic_stone",
+  "base_price": 12,
+  "currency": "rezero:lugunica_copper_coin",
+  "relationship_discount_per_ten": 1
+}

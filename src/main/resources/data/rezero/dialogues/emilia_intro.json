@@ -1,0 +1,35 @@
+{
+  "id": "rezero:emilia_intro",
+  "speaker": "rezero:emilia",
+  "start": "start",
+  "nodes": {
+    "start": {
+      "text": "Are you lost?",
+      "choices": [
+        {
+          "text": "Yes.",
+          "next": "help"
+        },
+        {
+          "text": "No.",
+          "next": "continue"
+        }
+      ]
+    },
+    "help": {
+      "text": "Then let us find a safe place first.",
+      "choices": [
+        {
+          "text": "Thank you.",
+          "action": {
+            "type": "start_quest",
+            "value": "rezero:arrival"
+          }
+        }
+      ]
+    },
+    "continue": {
+      "text": "Then please be careful. This city can be dangerous."
+    }
+  }
+}

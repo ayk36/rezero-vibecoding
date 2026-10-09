@@ -1,0 +1,7 @@
+{
+  "id": "rezero:otto",
+  "name": "Otto",
+  "faction": "rezero:emilia_camp",
+  "combat": false,
+  "dialogue": "rezero:witch_cult_warning"
+}

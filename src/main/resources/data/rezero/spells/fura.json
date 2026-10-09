@@ -1,0 +1,7 @@
+{
+  "element": "wind",
+  "mana_cost": 14,
+  "cooldown": 30,
+  "power": 1.8,
+  "range": 20
+}

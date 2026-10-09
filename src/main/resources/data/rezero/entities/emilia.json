@@ -1,0 +1,8 @@
+{
+  "id": "rezero:emilia",
+  "name": "Emilia",
+  "faction": "rezero:emilia_camp",
+  "combat": false,
+  "schedule": "day",
+  "dialogue": "rezero:emilia_intro"
+}

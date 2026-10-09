@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "rezero",
+  "version": "${version}",
+  "name": "Re:Zero: Starting Life in Another World",
+  "description": "A server-authoritative Re:Zero RPG adventure for Minecraft.",
+  "authors": [
+    "Re:Zero Mod Contributors"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.rezero.mod.ReZeroMod"
+    ],
+    "client": [
+      "com.rezero.mod.client.ReZeroClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

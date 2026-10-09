@@ -1,0 +1,11 @@
+{
+  "id": "rezero:wolgarm",
+  "name": "Wolgarm",
+  "faction": "rezero:mabeasts",
+  "combat": true,
+  "spawn": {
+    "biome": "minecraft:forest",
+    "time": "night",
+    "story_flag": "visited_mansion"
+  }
+}

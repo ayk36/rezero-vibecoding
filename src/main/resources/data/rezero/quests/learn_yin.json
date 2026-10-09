@@ -1,0 +1,8 @@
+{
+  "title": "Shadows of Yin",
+  "description": "Use Shadow Bind against an enemy.",
+  "objectives": [
+    { "type": "use_ability", "target": "rezero:shadow_bind", "count": 1 }
+  ],
+  "experience_reward": 175
+}

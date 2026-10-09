@@ -1,0 +1,12 @@
+{
+  "name": "Petelgeuse Romanée-Conti",
+  "entity_type": "minecraft:evoker",
+  "max_health": 320.0,
+  "experience_reward": 1800,
+  "gold_reward": 8,
+  "phases": [
+    { "id": "hands", "health_threshold": 0.70 },
+    { "id": "cult", "health_threshold": 0.35 },
+    { "id": "madness", "health_threshold": 0.0 }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "id": "rezero:witch_cultist",
+  "name": "Witch Cultist",
+  "faction": "rezero:witch_cult",
+  "combat": true
+}

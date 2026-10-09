@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "rezero:magic_stone",
+    "minecraft:glass_bottle"
+  ],
+  "result": {
+    "id": "rezero:mana_potion",
+    "count": 1
+  }
+}

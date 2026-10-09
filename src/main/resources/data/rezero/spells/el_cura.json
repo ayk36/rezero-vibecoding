@@ -1,0 +1,11 @@
+{
+  "id": "rezero:el_cura",
+  "element": "yang",
+  "mana_cost": 18,
+  "cooldown": 60,
+  "healing": 6,
+  "range": 0,
+  "requirements": {
+    "magic_level": 1
+  }
+}

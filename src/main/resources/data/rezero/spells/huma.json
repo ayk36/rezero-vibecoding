@@ -1,0 +1,11 @@
+{
+  "id": "rezero:huma",
+  "element": "fire",
+  "mana_cost": 15,
+  "cooldown": 20,
+  "damage": 6,
+  "range": 20,
+  "requirements": {
+    "magic_level": 1
+  }
+}

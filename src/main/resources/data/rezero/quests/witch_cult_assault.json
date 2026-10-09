@@ -1,0 +1,8 @@
+{
+  "title": "Witch Cult Assault",
+  "description": "Defeat Petelgeuse and stop the cultist attack.",
+  "objectives": [
+    { "type": "boss", "target": "rezero:petelgeuse", "count": 1 }
+  ],
+  "experience_reward": 1500
+}

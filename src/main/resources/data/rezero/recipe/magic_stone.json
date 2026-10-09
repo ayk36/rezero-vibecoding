@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:amethyst_shard",
+    "minecraft:ender_pearl"
+  ],
+  "result": {
+    "id": "rezero:magic_stone",
+    "count": 1
+  }
+}

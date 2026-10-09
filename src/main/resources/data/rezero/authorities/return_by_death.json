@@ -1,0 +1,6 @@
+{
+  "name": "Return by Death",
+  "behavior": "checkpoint_restore",
+  "cooldown": 0,
+  "mana_cost": 0
+}
